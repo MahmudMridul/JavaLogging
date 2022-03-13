@@ -1,5 +1,13 @@
+/*
 
-package logging.demo.calulator;
+#DESCRIPTION
+
+The purpose of this project is to learn logging by using java.util.logging 
+The Logger created in Log class is used throughout other classes
+
+
+*/
+package logging.demo.calculator;
 
 import static java.lang.System.out;
 import java.util.logging.Level;
